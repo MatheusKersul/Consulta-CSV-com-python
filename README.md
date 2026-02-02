@@ -47,10 +47,3 @@ Caso deseje rodar o projeto em sua máquina, siga os passos abaixo:
     ```
     *(Nota: verifique se o nome do arquivo principal é `app.py` ou `main.py` e ajuste o comando acima se necessário).*
 
-## 👨‍💻 Sobre o Autor
-
-**Matheus Kersul**
-Graduando de Engenharia de Computação apaixonado por descobrir como os sistemas funcionam e entusiasta da resolução de problemas complexos. Focado em Backend e Ciência de Dados.
-
----
-Desenvolvido por [Matheus Kersul](https://github.com/MatheusKersul)
